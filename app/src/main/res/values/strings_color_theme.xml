@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_theme_red">Red</string>
+    <string name="color_theme_green">Green</string>
+    <string name="color_theme_blue">Blue</string>
+    <string name="color_theme_yellow">Yellow</string>
+    <string name="color_theme_orange">Orange</string>
+    <string name="color_theme_purple">Purple</string>
+    <string name="color_theme_pink">Pink</string>
+    <string name="color_theme_brown">Brown</string>
+    <string name="color_theme_gray">Gray</string>
+    <string name="color_theme_cyan">Cyan</string>
+    <string name="color_theme_magenta">Magenta</string>
+    <string name="color_theme_teal">Teal</string>
+    <string name="color_theme_indigo">Indigo</string>
+    <string name="color_theme_lime">Lime</string>
+</resources>

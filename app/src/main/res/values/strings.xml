@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flow</string>
+    <string name="app_tagline">Small Steps, Big Changes.</string>
+
+    <!-- Welcome Message -->
+    <string name="welcome_msg">Welcome to Flow! 🎉</string>
+
+    <string name="undo_archive_message">Habit archived successfully. You can undo this action.</string>
+    <string name="prompt_restore_habit_message">Do you want to restore this habit?</string>
+    <string name="habit_restored_message">Habit restored successfully! You can now continue tracking it.</string>
+
+    <!-- Onboarding Titles -->
+    <string name="onboarding_title_build_habits">Build Stronger Habits, One Step at a Time</string>
+    <string name="onboarding_title_stay_consistent">Stay Consistent, Stay Motivated</string>
+    <string name="onboarding_title_track_progress">Track Your Growth, Stay Inspired</string>
+
+    <!-- Onboarding Messages -->
+    <string name="onboarding_message_build_habits">Great habits start with small, consistent steps. Track your streaks, build momentum, and stay motivated every day.</string>
+    <string name="onboarding_message_stay_consistent">Success is built one step at a time. Mark your progress, celebrate wins, and turn daily actions into lifelong habits.</string>
+    <string name="onboarding_message_track_progress">Your journey matters. Track your progress, refine your habits, and see the results of your efforts over time.</string>
+
+    <!-- Empty State Messages -->
+    <string name="dashboard_empty_title">No Habits Added</string>
+    <string name="dashboard_empty_subtitle">Looks like you haven’t added any habits yet. Start building better routines today!</string>
+    <string name="archived_empty_title">No Archived Habits Yet</string>
+    <string name="archived_empty_subtitle">You haven’t archived any habits yet. When you do, they’ll show up here.</string>
+    <string name="reorder_empty_title">No Habits to Reorder</string>
+    <string name="reorder_empty_subtitle">Once you add habits, you can rearrange them here to fit your routine.</string>
+
+    <!-- App Features -->
+    <string name="feature_feed">Home</string>
+    <string name="feature_analytics">Your Stats</string>
+    <string name="feature_settings">Settings</string>
+    <string name="feature_create_habit">New Habit</string>
+    <string name="feature_edit_habit">Edit Habit</string>
+    <string name="feature_archived_habits">Archived Habits</string>
+    <string name="feature_reorder_habits">Reorder Habits</string>
+
+    <!-- User Actions: General -->
+    <string name="action_next">Next</string>
+    <string name="action_clear">Reset</string>
+    <string name="action_close">Close</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_ok">OK</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_reorder">Reorder</string>
+
+    <!-- User Actions: Habit Management -->
+    <string name="action_new_habit">Create Habit</string>
+    <string name="action_increase_habit_goal">Increase Goal</string>
+    <string name="action_decrease_habit_goal">Decrease Goal</string>
+    <string name="action_edit_habit">Edit</string>
+    <string name="action_archive_habit">Archive</string>
+    <string name="action_restore_habit">Restore</string>
+
+    <!-- User Actions: Reminders -->
+    <string name="action_new_reminder">Add Reminder</string>
+    <string name="action_remove_reminder">Remove Reminder</string>
+
+    <!-- User Actions: Navigation -->
+    <string name="action_open_settings">Go to Settings</string>
+    <string name="action_open_archives">View Archived Habits</string>
+    <string name="action_view_analytics">View Progress</string>
+
+    <!-- User Actions: UI-Specific -->
+    <string name="action_pick_icon">Choose Icon</string>
+    <string name="action_start">Get Started!</string>
+
+    <!-- User Inputs -->
+    <string name="input_placeholder_habit_name">Enter a habit name</string>
+    <string name="input_placeholder_habit_description">Describe your habit</string>
+    <string name="input_placeholder_habit_color">Pick a color</string>
+    <string name="input_suffix_goal_daily">times/day</string>
+
+    <!-- App Dialogs -->
+    <string name="dialog_title_select_icon">Choose an Icon</string>
+    <string name="dialog_title_select_time">Set a Time</string>
+    <string name="dialog_title_select_theme">Choose a Theme</string>
+    <string name="dialog_title_delete_habits">Delete Selected Habits?</string>
+    <string name="dialog_message_delete_habits">Are you sure you want to delete the selected habits? This action cannot be undone.</string>
+    <string name="dialog_title_habit_archival">Archive Habit</string>
+    <string name="dialog_message_habit_archival">Are you sure you want to archive this habit? You can restore it anytime from the archive.</string>
+
+    <!-- Habit Form Sections -->
+    <string name="habit_form_section_basic_info">Basic Info</string>
+    <string name="habit_form_section_schedule">Repeat Every</string>
+    <string name="habit_form_section_reminders">Remind Me At</string>
+
+    <!-- Habit Archive & Restore Messages -->
+    <string name="habit_archive_success_message">Habit archived. You can undo this if needed.</string>
+    <string name="habit_restore_prompt_message">Would you like to restore this habit?</string>
+    <string name="habit_restore_success_message">Habit restored! Keep up the great work.</string>
+
+    <!-- Settings Sections -->
+    <string name="settings_section_appearance">Appearance</string>
+    <string name="settings_section_data">Data &amp; Backups</string>
+    <string name="settings_section_legal_support">Legal &amp; Support</string>
+    <string name="settings_section_about_app">About Flow</string>
+
+    <!-- Settings Options -->
+    <string name="settings_option_invite">Gift Flow to a Friend</string>
+    <string name="settings_option_color_scheme">Color Theme</string>
+    <string name="settings_option_adaptive_colors">Adaptive Colors</string>
+    <string name="settings_option_backup_data">Backup Data</string>
+    <string name="settings_option_backup_data_desc">Save your habits and progress for later.</string>
+    <string name="settings_option_restore_data">Restore Data</string>
+    <string name="settings_option_restore_data_desc">Recover your saved habits and progress.</string>
+
+    <!-- Legal & Support -->
+    <string name="support_contact">Need Help? Contact Us</string>
+    <string name="legal_terms_of_service">Terms of Service</string>
+    <string name="legal_privacy">Privacy Policy</string>
+    <string name="legal_open_source_licenses">Open Source Licenses</string>
+
+    <!-- About & App Information -->
+    <string name="about_developer_credit">Made with ❤️ by %1$s</string>
+    <string name="about_app_version">Version %1$s</string>
+
+    <!-- Habit Interval Options -->
+    <plurals name="habit_interval_daily">
+        <item quantity="one">Day</item>
+        <item quantity="other">Days</item>
+    </plurals>
+
+    <plurals name="habit_interval_weekly">
+        <item quantity="one">Week</item>
+        <item quantity="other">Weeks</item>
+    </plurals>
+
+    <!-- Theme Mode Options -->
+    <string name="theme_mode_light">Light Mode</string>
+    <string name="theme_mode_dark">Dark Mode</string>
+    <string name="theme_mode_system">Match System Theme</string>
+
+    <!-- Errors -->
+    <string name="error_missing_habit_name">Please enter a name for your habit.</string>
+    <string name="error_missing_habit_icon">Please select an icon.</string>
+    <string name="error_missing_habit_color">Please choose a color.</string>
+    <string name="error_missing_interval_count">Interval count is required.</string>
+    <string name="error_missing_daily_goal">Daily goal is required.</string>
+</resources>
